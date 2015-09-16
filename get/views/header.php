@@ -1,5 +1,3 @@
 <header>
-    <h1>Title goes here</h1>
-
-
+    <h1>Contact Us!</h1>
 </header>
